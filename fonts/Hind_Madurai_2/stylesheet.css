@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Hind Madurai';
+    src: url('HindMadurai-Regular.eot');
+    src: url('HindMadurai-Regular.eot?#iefix') format('embedded-opentype'),
+        url('HindMadurai-Regular.woff2') format('woff2'),
+        url('HindMadurai-Regular.woff') format('woff'),
+        url('HindMadurai-Regular.ttf') format('truetype'),
+        url('HindMadurai-Regular.svg#HindMadurai-Regular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hind Madurai';
+    src: url('HindMadurai-Bold.eot');
+    src: url('HindMadurai-Bold.eot?#iefix') format('embedded-opentype'),
+        url('HindMadurai-Bold.woff2') format('woff2'),
+        url('HindMadurai-Bold.woff') format('woff'),
+        url('HindMadurai-Bold.ttf') format('truetype'),
+        url('HindMadurai-Bold.svg#HindMadurai-Bold') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hind Madurai';
+    src: url('HindMadurai-Medium.eot');
+    src: url('HindMadurai-Medium.eot?#iefix') format('embedded-opentype'),
+        url('HindMadurai-Medium.woff2') format('woff2'),
+        url('HindMadurai-Medium.woff') format('woff'),
+        url('HindMadurai-Medium.ttf') format('truetype'),
+        url('HindMadurai-Medium.svg#HindMadurai-Medium') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hind Madurai';
+    src: url('HindMadurai-Light.eot');
+    src: url('HindMadurai-Light.eot?#iefix') format('embedded-opentype'),
+        url('HindMadurai-Light.woff2') format('woff2'),
+        url('HindMadurai-Light.woff') format('woff'),
+        url('HindMadurai-Light.ttf') format('truetype'),
+        url('HindMadurai-Light.svg#HindMadurai-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hind Madurai';
+    src: url('HindMadurai-SemiBold.eot');
+    src: url('HindMadurai-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('HindMadurai-SemiBold.woff2') format('woff2'),
+        url('HindMadurai-SemiBold.woff') format('woff'),
+        url('HindMadurai-SemiBold.ttf') format('truetype'),
+        url('HindMadurai-SemiBold.svg#HindMadurai-SemiBold') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
